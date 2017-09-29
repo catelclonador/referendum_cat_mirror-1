@@ -17,6 +17,10 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * http://votarem.xyz/on-votar/
 * http://catalunyalliure.xyz/on-votar/
 * http://independencia.xyz/on-votar/
+* http://onvotarreferendum.com
+* http://votareferendum.me
+* http://votareferendum.us
+* http://votareferendum.com
 
 ---
 
